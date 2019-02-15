@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <vincentmangiolli>
 	<dialog>
-		<d1>Ciao suino!</d1>
-		<d2>'Stu registru nu funziona!</d2>
-		<d3>Lu guaiu ete ca ati abbuccatu, hannu fattu comu lu pifferaiu ca se purtau tutti li surgi intra lu lagu e li 'nfucau.</d3>
+		<d1>Ei, non ti ho mai visto da queste parti. Sei una scimmia travestita da umano, per caso?</d1>
+		<d2>...</d2>
+		<d3>Scherzo, dai.</d3>
+		<d4>Io sono Mangiolli, il tuo professore di diritto ed economia politica.</d4>
+		<d5>Cioè, in realtà non so nemmeno come ti chiami, ma ho deciso che sarò il tuo professore.</d5>
+		<d6>Sempre se per te va bene, ovviamente.</d6>
+		<d7>Perfetto! Ci si vede!</d7>
 	</dialog>
 </vincentmangiolli>
 <nicolaiavmenise>
