@@ -12,8 +12,14 @@
 </vincentmangiolli>
 <nicolaiavmenise>
 	<dialog>
-		<d1>Buongiorno ragazzo.</d1>
-		<d2>Qualcuno ha mangiato in laboratorio</d2>
-		<d3>Excel migliora in continuazione, come il registro.</d3>
+		<d1>Salve ragazzo. Tu devi essere il nuovo studente di cui mi ha parlato Cinzia.</d1>
+		<d2>Io sono Avmenise, il tuo professore di informatica.</d2>
+		<d3>Immagino che tu sia un grande fan di Excel, proprio come il sottoscritto.</d3>
+		<d4>Non faccio per vantarmi, ma quand'ero giovane ho lavorato per la Microsoft.</d4>
+		<d5>Probabilmente tu non sei nemmeno in grado di accendere il computer, ahahah.</d5>
+		<d6>Ma non temere, studente! Io, il grande Armenise, ti insegnerò ogni segreto dell'informatica!</d6>
+		<d7>Se seguirai i miei consigli, FOOORSE arriverai a diventare bravo quasi quanto me ad usare Excel.</d7>
+		<d8>...</d8>
+		<d9>Quasi.</d9>
 	</dialog>
 </nicolaiavmenise>
